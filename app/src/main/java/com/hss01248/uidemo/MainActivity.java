@@ -8,7 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.hss01248.ui.pop.PopList;
+
+import com.hss01248.ui.pop.list.PopList;
 
 import java.util.ArrayList;
 import java.util.List;

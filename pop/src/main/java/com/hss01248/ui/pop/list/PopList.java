@@ -1,4 +1,4 @@
-package com.hss01248.ui.pop;
+package com.hss01248.ui.pop.list;
 
 import android.app.Activity;
 import android.content.Context;
